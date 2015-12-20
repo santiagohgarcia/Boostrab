@@ -1,0 +1,15 @@
+/* Popover */
+.popover {
+	width:800px;
+	height:200px;
+}
+/* Popover Header */
+.popover-title {
+    font-size: 28px;
+    text-align:center;
+}
+
+/* Popover Body */
+.popover-content {
+    text-align:left;
+}
